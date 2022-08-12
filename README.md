@@ -19,7 +19,7 @@
 - void clear(): Deletes all elements in the dataset.
 - boolean removeAll(Collection<?> elements):  Deletes the given set of elements from the current dataset.
 
-![collection-interface.png](COLLECTI%CC%87ON%20AND%20MAP%20INTERFACE%20a1d02a91dce044e2952df2662d455069/collection-interface.png)
+![collection-interface.png](https://github.com/zehracakir/CollectionAndMapInterfaceJava/blob/main/collection-interface.png)
 
 ## COLLECTION
 
@@ -200,7 +200,7 @@ public class ListClass {
 
 ### LinkedList Class
 
-![linked-list.png](COLLECTI%CC%87ON%20AND%20MAP%20INTERFACE%20a1d02a91dce044e2952df2662d455069/linked-list.png)
+![linked-list.png](https://github.com/zehracakir/CollectionAndMapInterfaceJava/blob/main/linked-list.png)
 
 - It is a linear data structure where the elements are not stored in contiguous locations and each element is a separate object with a data part and an address part.
 - Elements are linked using pointers and addresses. Each element is known as a node.
